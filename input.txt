@@ -1,0 +1,8 @@
+{"RecordNumber":1,"Zipcode":705,"ZipCodeType":"STANDARD","City":"PARC PARQUE","State":"PR","LocationType":"NOT ACCEPTABLE"}
+{"RecordNumber":2,"AddressLineOne":17.97,"AddressLineTwo":-66.22,"Country":"US","Purpose":"Residential"}
+{"RecordNumber":3,"Zipcode":704,"ZipCodeType":"STANDARD","City":"PARC PARQUE","State":"PR","LocationType":"NOT ACCEPTABLE"}
+{"RecordNumber":1,"AddressLineOne":17.98,"AddressLineTwo":-66.22,"Country":"US","Purpose":"Residential"}
+{"RecordNumber":4,"Zipcode":704,"ZipCodeType":"STANDARD","City":"PARC PARQUE","State":"PR","LocationType":"NOT ACCEPTABLE"}
+{"RecordNumber":3,"AddressLineOne":17.95,"AddressLineTwo":-66.22,"Country":"US","Purpose":"Residential"}
+{"RecordNumber":2,"Zipcode":704,"ZipCodeType":"STANDARD","City":"PARC PARQUE","State":"PR","LocationType":"NOT ACCEPTABLE"}
+{"RecordNumber":4,"AddressLineOne":17.99,"AddressLineTwo":-66.22,"Country":"US","Purpose":"Residential"}
